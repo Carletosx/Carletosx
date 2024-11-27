@@ -90,8 +90,8 @@
 
 ### Contacta y conéctate conmigo🤝
 <a href="https://www.instagram.com/carletoszz/">![Instagram](https://img.shields.io/badge/carletoszz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
-<a href="mailto:carlosferreiraernesto@gmail.com">![Gmail](https://img.shields.io/badge/gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/carlos-ferreira">(https://www.linkedin.com/in/carlos-ferreira-563b5a2a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw9iIlrY5QKONYXibafNizQ%3D%3D)">![LinkedIn](https://img.shields.io/badge/carlos%20ferreira-%2300A0DC.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:carlosferreiraernesto@gmail.com">![Gmail](https://img.shields.io/badge/gmail-%23FF5722.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/carlos-ferreira-563b5a2a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw9iIlrY5QKONYXibafNizQ%3D%3D">![LinkedIn](https://img.shields.io/badge/carlos%20ferreira-%2300A0DC.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 -------------------
 
