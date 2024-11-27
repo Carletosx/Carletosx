@@ -3,9 +3,8 @@
 
 <h1 align="center"><b>¡Hola, soy Carlos Ferreira! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
