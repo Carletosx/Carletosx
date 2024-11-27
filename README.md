@@ -24,7 +24,7 @@
 - 💡 **Me interesa mucho...** La computación en la nube (AWS) y cómo las arquitecturas modernas pueden transformar el desarrollo de aplicaciones, además de seguir ampliando mis habilidades en desarrollo Full Stack.
 - 📖 **Actualmente estoy aprendiendo...** Cómo integrar soluciones de nube con AWS y frameworks backend como Express.js, para mejorar mis proyectos y ser más versátil en el desarrollo de aplicaciones completas.
 - ❄️ **Busco colaborar en** Proyectos tecnológicos desafiantes que me permitan aplicar mis conocimientos y seguir aprendiendo, especialmente en áreas de código abierto y nuevas tecnologías.
-- 📫 **¿Cómo contactarme?** Puedes enviarme un correo a [carlosferreiraernesto@gmail.com](mailto:carlosferreiraernesto@gmail.com) o revisar mi [CV en Google Drive](#) para más detalles sobre mi experiencia y habilidades.
+- 📫 **¿Cómo contactarme?** Puedes enviarme un correo a [carlosferreiraernesto@gmail.com](mailto:carlosferreiraernesto@gmail.com) o revisar mi [CV en Google Drive](https://drive.google.com/file/d/1yU4M49xIV8gHuWMW1NJ5LonIAPg0ntsJ/view?usp=sharing) para más detalles sobre mi experiencia y habilidades.
 <!--Intro end-->
 -------------------
 <div align="center">
@@ -91,7 +91,7 @@
 ### Contacta y conéctate conmigo🤝
 <a href="https://www.instagram.com/carletoszz/">![Instagram](https://img.shields.io/badge/carletoszz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 <a href="mailto:carlosferreiraernesto@gmail.com">![Gmail](https://img.shields.io/badge/gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="[https://www.linkedin.com/in/carlos-ferreira](https://www.linkedin.com/in/carlos-ferreira-563b5a2a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw9iIlrY5QKONYXibafNizQ%3D%3D)">![LinkedIn](https://img.shields.io/badge/carlos%20ferreira-%2300A0DC.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/carlos-ferreira">(https://www.linkedin.com/in/carlos-ferreira-563b5a2a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw9iIlrY5QKONYXibafNizQ%3D%3D)">![LinkedIn](https://img.shields.io/badge/carlos%20ferreira-%2300A0DC.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 -------------------
 
