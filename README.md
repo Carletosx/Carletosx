@@ -20,7 +20,7 @@
 ### ⚡🙋‍♂️ Sobre mí
 <br>
 
-- 🔧 **Actualmente estoy trabajando en...** El desarrollo de una plataforma llamada cocinalo que es un recetario, aprovechando tecnologías como React, Node.js y mysql, para ofrecer una experiencia de usuario excepcional.
+- 🔧 **Actualmente estoy trabajando en...** El desarrollo de una plataforma llamada cocinalo que es un recetario, aprovechando tecnologías como React, Node.js y MySQL, para ofrecer una experiencia de usuario excepcional.
 - 💡 **Me interesa mucho...** La computación en la nube (AWS) y cómo las arquitecturas modernas pueden transformar el desarrollo de aplicaciones, además de seguir ampliando mis habilidades en desarrollo Full Stack.
 - 📖 **Actualmente estoy aprendiendo...** Cómo integrar soluciones de nube con AWS y frameworks backend como Express.js, para mejorar mis proyectos y ser más versátil en el desarrollo de aplicaciones completas.
 - ❄️ **Busco colaborar en** Proyectos tecnológicos desafiantes que me permitan aplicar mis conocimientos y seguir aprendiendo, especialmente en áreas de código abierto y nuevas tecnologías.
@@ -47,7 +47,6 @@
 #### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Infraestructura y DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -60,12 +59,40 @@
 ![Spring Tool Suite](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-2A6EBB.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
+#### Diseño
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%23EC1C24.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+#### Control de Versiones
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### Pruebas y Desarrollo
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+
+#### Construcción y Gestión
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Entornos de Desarrollo
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-2A6EBB.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+#### Metodologías de Trabajo
+![Scrum](https://img.shields.io/badge/Scrum-%23FF6F00.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%2300FFFF.svg?style=for-the-badge&logo=devops&logoColor=black)
+
 -------------------
 
 ### Contacta y conéctate conmigo🤝
 <a href="https://www.instagram.com/carletoszz/">![Instagram](https://img.shields.io/badge/carletoszz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
-<a href="mailto:gkaustav57@gmail.com">![Gmail](https://img.shields.io/badge/gmail-%23FF5722.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:carlosferreiraernesto@gmail.com">![Gmail](https://img.shields.io/badge/gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="[https://www.linkedin.com/in/carlos-ferreira](https://www.linkedin.com/in/carlos-ferreira-563b5a2a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw9iIlrY5QKONYXibafNizQ%3D%3D)">![LinkedIn](https://img.shields.io/badge/carlos%20ferreira-%2300A0DC.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-------------------- 
+-------------------
 
-Ultima edición: 26/11/2024
+### Ultima Modificación: 27/11/2024
